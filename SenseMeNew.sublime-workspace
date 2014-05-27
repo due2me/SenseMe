@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"priln",
+				"println(String)	void"
+			],
+			[
+				"set",
+				"startActivityForResult"
+			],
+			[
+				"st",
+				"st_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/usr/local/etc/reaver/388345B58592.wpc",
+			"settings":
+			{
+				"buffer_size": 54009,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/plugin-sublime-android/Android.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"sla",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"plp",
+				"Package Control: List Packages"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sja",
+				"Set Syntax: Java"
+			],
+			[
+				"sshe",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"preffius",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"prefs",
+				"Preferences: Settings - Default"
+			],
+			[
+				"",
+				"Preferences: Settings - Default"
+			],
+			[
+				"ab",
+				"About"
+			],
+			[
+				"go",
+				"Set Syntax: Go"
+			],
+			[
+				"ssjava",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/singnal/Documents/Network/合院/YGGY921",
+		"/home/singnal/workspace/MIcode/patchrom/patchrom_build/envsetup.sh",
+		"/home/singnal/.bashrc",
+		"/home/singnal/workspace/MIcode/patchrom/patchrom/README",
+		"/home/singnal/workspace/SenseMeNew/src/com/singnal/sense/me/MainActivity.java",
+		"/home/singnal/missfont.log",
+		"/etc/proxychains.conf",
+		"/etc/hosts",
+		"/home/singnal/Downloads/query.php",
+		"/home/singnal/workspace/SenseMeNew/src/com/singnal/sense/me/AutoService.java",
+		"/home/singnal/wp-config.php",
+		"/home/singnal/Untitled Document",
+		"/home/singnal/.bin/repo",
+		"/home/singnal/Documents/baiduyun/appid6aoz57y6jh/0/index.php",
+		"/home/singnal/Documents/baiduyun/appid6aoz57y6jh/0/app.conf",
+		"/home/singnal/Programs/Android-Kitchen/WORKING_Brom/META-INF/com/google/android/updater-script",
+		"/home/singnal/.cache/.fr-MHqSpe/修改开机画面教程.txt",
+		"/home/singnal/Programs/Android-Kitchen/WORKING_Brom/META-INF/com/google/android/temp.log",
+		"/home/singnal/Programs/Android-Kitchen/original_update/put_rom_here_",
+		"/home/singnal/works_sublime/readme.txt",
+		"/home/singnal/Documents/baiduyun/appid6aoz57y6jh/0/wp-config.php",
+		"/home/singnal/Documents/Network/uestc-tushuguan",
+		"/home/singnal/workspace/SenseMeNew/res/layout/activity_main.xml",
+		"/home/singnal/workspace/SenseMeNew/SenseMeNew.sublime-project",
+		"/home/singnal/workspace/SenseMeNew/SenseMeNew.sublime-workspace",
+		"/home/singnal/works_sublime/how/src/com/how/how.java",
+		"/home/singnal/.config/sublime-text-2/Packages/Android/Android (Linux).sublime-settings",
+		"/home/singnal/.config/sublime-text-2/Packages/plugin-sublime-android/Android (Linux).sublime-settings",
+		"/home/singnal/.config/sublime-text-2/Packages/plugin-sublime-android/Android.sublime-build",
+		"/home/singnal/.config/sublime-text-2/Packages/Android/Default (Linux).sublime-keymap",
+		"/home/singnal/works_sublime/how/how.sublime-project",
+		"/home/singnal/.config/sublime-text-2/Packages/SublimeAndroid/README.md",
+		"/home/singnal/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/singnal/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/singnal/.config/sublime-text-2/Packages/SublimeAndroid/SublimeAndroid.sublime-settings",
+		"/home/singnal/Downloads/Changelog_04_11_2013.log",
+		"/home/singnal/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/singnal/.config/sublime-text-3/Packages/sublime-android/Android.sublime-build",
+		"/home/singnal/.config/sublime-text-3/Packages/sublime-android/Android.sublime-commands",
+		"/home/singnal/.config/sublime-text-3/Packages/sublime-android/Android (Linux).sublime-settings",
+		"/home/singnal/works_sublime/androidtest/AndroidManifest.xml",
+		"/home/singnal/works_sublime/androidtest/src/com/androidtest/main_activity.java",
+		"/home/singnal/Documents/个人简历.tex",
+		"/home/singnal/Downloads/tea.java",
+		"/home/singnal/tea.java",
+		"/home/singnal/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+		"/home/singnal/test.go",
+		"/usr/share/applications/defaults.list",
+		"/usr/share/applications/Sublime2.desktop",
+		"/home/singnal/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/singnal/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/home/singnal/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/singnal/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/singnal/.config/sublime-text-2/Packages/Alignment/Base File.sublime-settings",
+		"/home/singnal/test.class",
+		"/home/singnal/test2.java",
+		"/home/singnal/runJava.sh",
+		"/home/singnal/Programs/sublime/Pristine Packages/Java.sublime-package",
+		"/home/singnal/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/singnal/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/singnal/test.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1999",
+			"micode",
+			"func",
+			"\n//",
+			"//					 ",
+			"Sublime2",
+			"sublime2",
+			"gedit.desktop",
+			"ctrl+t",
+			"func",
+			"line",
+			"Distract",
+			"sum",
+			"Println",
+			"ssss",
+			"sss",
+			"ss",
+			"st_n",
+			"st_name",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/usr/local/etc/reaver/388345B58592.wpc",
+					"settings":
+					{
+						"buffer_size": 54009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ser",
+				"src/com/singnal/sense/me/AutoService.java"
+			],
+			[
+				"mainac",
+				"src/com/singnal/sense/me/MainActivity.java"
+			],
+			[
+				"senacti",
+				"src/com/singnal/sense/me/MainActivity.java"
+			],
+			[
+				"main",
+				"res/layout/activity_main.xml"
+			],
+			[
+				"manife",
+				"AndroidManifest.xml"
+			],
+			[
+				"maina",
+				"src/com/androidtest/main_activity.java"
+			],
+			[
+				"tes",
+				"/home/singnal/test.go"
+			],
+			[
+				"te",
+				"/home/singnal/test.go"
+			],
+			[
+				"esg",
+				"/home/singnal/test.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true
+}

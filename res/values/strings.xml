@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SenseMe</string>
+    
+    <string name="detail">C122 电子科技大学C122教室</string>
+    
+    <string name="popup_content_1">你正在靠近</string>
+    <string name="popup_content_2">是否打开优惠页面？</string>
+    <string name="yes_to_popup">好的</string>
+    <string name="no_to_popup">隐藏</string>
+    
+    <!-- actionbar  -->
+    <string name="menu_state">状态</string>
+    <string name="setting">设置</string>
+    <string name="switch_title">Auto Switch</string>
+    <string name="auto_switch">自动检测</string>
+    
+    <!-- add dialog -->
+    <string name="add_dialog_title">添加MAC地址</string>
+    <string name="dialog_mac">Mac：</string>
+    <string name="dialog_func">功能：</string>
+    <string name="dialog_content">内容：</string>
+    <string name="dialog_ensure">添加</string>
+    <string name="dialog_cancel">取消</string>
+    
+    <!-- spinner -->
+	<string-array name="states">
+        <item>Active</item>
+        <item>Normal</item>
+        <item>Offline</item>
+    </string-array>
+    <string name="state_1">Active</string>
+    <string name="state_2">Normal</string>
+    <string name="state_3">Offline</string>
+
+</resources>
